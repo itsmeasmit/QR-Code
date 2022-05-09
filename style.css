@@ -7,11 +7,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
     background: rgb(255, 255, 255);
 
 }
-.code {
+.thulodabba {
     height:550px;
     width: 85%;
     display: flex;
@@ -19,8 +18,9 @@ body {
     justify-content: center;
     background: rgba(210, 210, 210, 0.43);
     border-radius: 20px;
+    margin: 45px;
 }
-.heading {
+.sanodabba {
     height:400px;
     width: 260px;
     background: rgb(69, 66, 255);
@@ -33,12 +33,12 @@ body {
     display: block;
     
 }
-.heading h1{
+.sanodabba h1{
     margin: 17px 2px 3px 2px;
     color: rgb(255, 255, 255);
     font-size: 19px;
 }
-.heading p{
+.sanodabba p{
     margin: 17px 2px 3px 2px;
     color: rgb(255, 255, 255);
     font-size: 15px;
