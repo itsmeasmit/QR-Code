@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(255, 255, 255);
+
+}
+.code {
+    height:550px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(210, 210, 210, 0.43);
+    border-radius: 20px;
+}
+.heading {
+    height:420px;
+    width: 260px;
+    background: rgb(69, 66, 255);
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 100;
+    display: block;
+}
+.heading h1{
+    margin: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+}
+.heading p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.QR {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    height: 230px;
+    width: auto;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+img{
+    margin: auto;
+    height: 65%;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    
+}
+/*<div class="text">
+            <p> </b> .</p>
+        </div>*/
