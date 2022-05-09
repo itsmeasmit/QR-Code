@@ -21,7 +21,7 @@ body {
     border-radius: 20px;
 }
 .heading {
-    height:420px;
+    height:400px;
     width: 260px;
     background: rgb(69, 66, 255);
     border-radius: 20px;
@@ -31,13 +31,15 @@ body {
     text-align: center;
     font-weight: 100;
     display: block;
+    
 }
 .heading h1{
-    margin: 15px;
+    margin: 17px 2px 3px 2px;
     color: rgb(255, 255, 255);
     font-size: 19px;
 }
 .heading p{
+    margin: 17px 2px 3px 2px;
     color: rgb(255, 255, 255);
     font-size: 15px;
     text-align: center;
